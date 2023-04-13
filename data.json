@@ -1,0 +1,30 @@
+{"data":{"text":"How"},"type":"text-stream"}
+{"data":{"text":" marvelous"},"type":"text-stream"}
+{"data":{"text":"!"},"type":"text-stream"}
+{"data":{"text":" An"},"type":"text-stream"}
+{"data":{"text":" adventure"},"type":"text-stream"}
+{"data":{"text":" story"},"type":"text-stream"}
+{"data":{"text":" it"},"type":"text-stream"}
+{"data":{"text":" is"},"type":"text-stream"}
+{"data":{"text":"!"},"type":"text-stream"}
+{"data":{"text":" 🌟"},"type":"text-stream"}
+{"data":{"text":" Do"},"type":"text-stream"}
+{"data":{"text":" you"},"type":"text-stream"}
+{"data":{"text":" already"},"type":"text-stream"}
+{"data":{"text":" have"},"type":"text-stream"}
+{"data":{"text":" any"},"type":"text-stream"}
+{"data":{"text":" ideas"},"type":"text-stream"}
+{"data":{"text":" for"},"type":"text-stream"}
+{"data":{"text":" our"},"type":"text-stream"}
+{"data":{"text":" story"},"type":"text-stream"}
+{"data":{"text":","},"type":"text-stream"}
+{"data":{"text":" or"},"type":"text-stream"}
+{"data":{"text":" would"},"type":"text-stream"}
+{"data":{"text":" you"},"type":"text-stream"}
+{"data":{"text":" like"},"type":"text-stream"}
+{"data":{"text":" me"},"type":"text-stream"}
+{"data":{"text":" to"},"type":"text-stream"}
+{"data":{"text":" suggest"},"type":"text-stream"}
+{"data":{"text":" some"},"type":"text-stream"}
+{"data":{"text":"?"},"type":"text-stream"}
+{"data":{"conversation":[{"text":"Would you like to write an awesome story together? Let's do it.\n- You can choose a topic from the list, or suggest another idea.\n- If I use new words, like \"theme\" or \"plot\", just ask me to explain.\n- At any point, you can ask me to show you what we have so far.\n- Once we're done, you can chat with some of the characters and admire the world we've built!","user":"Teacher","type":"incoming","serverOnly":false,"uiOnly":false,"interactionId":"3af1744415c5251000bfbb72823f3778bae19e23","actionBubbles":[{"label":"Yes, let's write an adventure story.","command":"Yes, let's write an adventure story."},{"label":"Yes, let's write a fantasy story.","command":"Yes, let's write a fantasy story."},{"label":"Yes, let's write a science fiction story.","command":"Yes, let's write a science fiction story."},{"label":"Yes, let's write a romance.","command":"Yes, let's write a romance."},{"label":"Yes, let's write a mystery.","command":"Yes, let's write a mystery."}],"links":null,"contentFlagged":false,"contentFlagDetails":null,"entryClassification":""},{"text":"Yes, let's write an adventure story.","user":"Student","type":"outgoing","serverOnly":false,"uiOnly":false,"interactionId":"1a73a07e5035b7a35f45dbd4d5b38490868d95de","actionBubbles":null,"links":null,"contentFlagged":false,"contentFlagDetails":{"categories":{"hate":false,"hate/threatening":false,"ka-offensive-terms":false,"self-harm":false,"sexual":false,"sexual/minors":false,"violence":false,"violence/graphic":false},"categoryScores":{"hate":1.918413339296876e-8,"hate/threatening":2.1603030128658496e-11,"ka-offensive-terms":0,"self-harm":2.099959095502868e-9,"sexual":0.000009083523764275014,"sexual/minors":4.326020643929951e-7,"violence":0.000002525363697714056,"violence/graphic":2.0952356294401397e-7}},"entryClassification":""},{"text":"How marvelous! An adventure story it is! 🌟 Do you already have any ideas for our story, or would you like me to suggest some?","user":"Teacher","type":"incoming","serverOnly":false,"uiOnly":false,"interactionId":"1a73a07e5035b7a35f45dbd4d5b38490868d95de","actionBubbles":null,"links":null,"contentFlagged":false,"contentFlagDetails":null,"entryClassification":""}],"interaction_id":"1a73a07e5035b7a35f45dbd4d5b38490868d95de","quota_remaining_percent":"0.977","thread_id":"23972ecb470d9c3d84122f8699de526334744cd3"},"type":"metadata"}
